@@ -9,7 +9,7 @@ Empowering the future with AI learning 🚀 Exploring the best practices and adv
   
 
 - 🔭 All of my projects are available at GitHub repository only
-(https://github.com/nikitamahajan92)  
+(https://github.com/nikitamahajan92?tab=repositories)  
   
 
 - 🌱  I’m currently learning Machine Learning, Deep Learning, Python  
