@@ -1,47 +1,26 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+Hi 👋, I'm Nikita Mahajan
 
-### <div align="center">Hi👋, I'm Nikita Mahajan
-Empowering the future with AI learning 🚀 Exploring the best practices and advancements in the field of Artificial Intelligence ✨
-</div>  
-  
+AI Engineer with an M.Tech in Artificial Intelligence, specializing in Generative AI, Large Language Models (LLMs), and NLP-based systems. I build intelligent, real-world AI applications that transform how users interact with data and systems. 🚀
 
-- 🔭 All of my projects are available at GitHub repository only
-(https://github.com/nikitamahajan92?tab=repositories)  
-  
+🔹 Currently working on:
 
-- 🌱  I’m currently learning Machine Learning, Deep Learning, Python  
-  
+- GenAI-powered assistants,chatbots, and document intelligence systems
+- LLM applications using LangChain, FastAPI, and vector databases
+- Scalable AI solutions for real-world use cases
 
-- ❓ Ask me about anything related Artificial Intelligence and Machine Learning  
-  
+🔹 Core Expertise:
 
-- ⚡ Fun fact: I find immense joy in the world of books, always eager to embark on new reading adventures. 📚✨  
-  
+- Generative AI & LLMs
+- RAG pipelines & semantic search
+- NLP, Chatbot Development
+- Machine Learning & Deep Learning (CNNs)
+- Python, FastAPI, Streamlit
 
-<br/>  
+📄 Published researcher with IEEE conferences in Medical Imaging & Deep Learning
 
+🔗 Projects:
+GitHub → https://github.com/nikitamahajan92
 
+💡 I’m passionate about building production-ready AI systems and exploring cutting-edge advancements in Generative AI.
 
-## Connect with me  
-<div align="center">
-<a href="https://www.linkedin.com/in/nikita-mahajan-40a481129/" >   
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/nikitamahajan92" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nikitamahajan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
+⚡ Fun fact: I enjoy reading books and exploring new ideas beyond technology 📚✨
